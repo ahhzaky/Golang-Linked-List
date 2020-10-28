@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=8QoynPUY9_8   // 4menit part 2
+// https://www.youtube.com/watch?v=8QoynPUY9_8
 /*
  Linked list merupakan algoritma untuk mengurutkan array dengan menunjuk pointer sebagai tempat
  penyimpanan array tersebut.

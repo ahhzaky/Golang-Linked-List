@@ -1,1 +1,1 @@
-# Golang-Linked-List
+# Golang-algorithm
